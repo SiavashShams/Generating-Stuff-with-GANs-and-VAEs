@@ -7,7 +7,7 @@
 
 Part2
 ----
-Training DCGAN and DRGAN to generate fake abstract art. Below is a sample of generated abstract art vs real abstract art.
+Training DCGAN and DRGAN to generate fake abstract art. Below is a sample of generated abstract art.
 
  ![This is an image](/Images/Picture2.png)
 
